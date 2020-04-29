@@ -1,0 +1,170 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 30px auto;
+    border: 2px solid;
+    border-color: rgba(87, 111, 216, 0.712);
+    padding: 10px;
+    text-align: center;
+    display: block;
+}
+
+div {
+    display: block;
+}
+ 
+
+h2 {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    font-size: 2.5em;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.3em;
+}
+  
+
+.color-box {
+    text-align: center;
+    margin: 10px;
+    width: 30%;
+    font-family: monospace;
+    display: inline-block;
+    min-height: 100px;
+    border-radius: 5px;
+}
+
+.custom1 {
+    background-color: #add3f2;
+    color: black;
+}
+
+.custom2 {
+    background-color: #e62a53;
+    color: snow;
+}
+
+.custom3 {
+    background-color: #f2cd27;
+    color: snow;
+}
+
+.custom4 {
+    background-color: #D7DC2D;
+    color: black;
+}
+
+.custom5 {
+    background-color: #6533CE;
+    color: white;
+}
+
+.custom6 {
+    background-color: #1BE46D;
+    color: white;
+}
+
+.font-section {
+    display: inline-block;
+    width: 45%;
+}
+
+h3 {
+    font-size: 1.3em;
+    text-decoration: underline;
+}
+
+.Monteserrat {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+.Josefin-slab {
+    font-family: 'Josefin Slab', serif;
+    text-transform: uppercase;
+}
+
+.Cinzel {
+    font-family: 'Cinzel', serif;
+}
+
+.Philosopher {
+    font-family: 'Philosopher', sans-serif;
+    text-transform: uppercase;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.regular-italic {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.semi-bold {
+    font-weight: 600;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.black {
+    font-weight: 900;
+}
+
+.text-section {
+    display: block;
+}
+
+.text-container{
+    display: block;
+    margin: 8px 5px;
+    text-align: left;
+}
+
+.text-section h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: block;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+ul {
+    display: block;
+}
+
+.text-section h2 {
+    display: block;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+
+.text-section p {
+    font-family: 'Monteserrat';
+    display: block;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
